@@ -10,11 +10,5 @@ Zabbix-Server Download Konfiguration:
 
 <br></br>
 
-Windows 11 Client iso
 
-pfSense Firewall Download / 7zip entpacken
-
-Windows Server 2025 iso
-
-AlmaLinux 9 iso
 
