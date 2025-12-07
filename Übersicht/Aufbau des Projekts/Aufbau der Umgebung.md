@@ -10,8 +10,4 @@ Zabbix-Server Download Konfiguration:
 
 <br></br>
 
-<img width="1278" height="222" alt="image" src="https://github.com/user-attachments/assets/47d643a6-2365-4e77-a9dc-f9acead02a4e" />
-
-<br></br>
-
 
