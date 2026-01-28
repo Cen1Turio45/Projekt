@@ -2,7 +2,7 @@ In diesem Projekt werde ich zeigen, dass ich in der Lage bin als Microsoft Engin
 
 Dafür plane ich derzeitig:
 
-1. CompTia Network + (erledigt)
+1. CompTia Network + (bestanden)
 2. CompTia Security +
 3. Az-900
 4. Az-104
